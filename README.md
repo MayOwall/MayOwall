@@ -1,59 +1,79 @@
 
-<img src='https://user-images.githubusercontent.com/97934878/190205731-f912cffd-d005-4c2f-8a27-279a15edafb4.jpeg' width=300 />
-
-  # Hello I'm MayOwall
-  I'm studying to be a <br>
-  **Web Front-End Developer** 👾
+  ## 안녕하세요, 오월입니다 🌿
   
-  contact me with...
-  <br>
-  <a href="https://github.com/MayOwall">
-    <img src="https://img.shields.io/badge/github-FFA0A0?style=for-the-badge&logo=github&logoColor=white">
+  <br/>
+  
+  안녕하세요 프론트엔드 개발 지망생 오월입니다 : )
+  
+  <b>소중한 이들에게 가치있는 경험</b>을 줄 수 있을 때 행복함을 느껴요. <br/>
+  그런 가치있는 경험을 만들 수 있는 개발자가 되기 위해 <br/>
+  어제를 바탕으로 내일로 나아가고 있습니다.
+  
+ 
+  <br/>
+  <br/>
+
+  Hello I'm Owall, an aspiring front-end developer.
+  
+  I feel happy when I can give valuable experiences to my loved ones.<br/>
+  To be a developer who can provide such valuable experiences,<br/>
+  I'm moving forward to tomorrow based on yesterday.
+  
+  <br/>
+  <br/>
+  <br/>
+  
+  ## Contact me 🧶
+  
+  <a href="https://velog.io/@mayowall">
+  <img src="https://user-images.githubusercontent.com/97934878/209636762-ae70ca46-e769-4037-a143-4f4503f18e19.png" width=130 alt="instagram button"/>
   </a>
   <a href="https://mayowall.tistory.com/">
-    <img src="https://img.shields.io/badge/tistory-FFF7B3?style=for-the-badge&logo=tistory&logoColor=white">
+  <img src="https://user-images.githubusercontent.com/97934878/209636901-396f3843-94cd-4c1f-a900-cb453495d42c.png" width=130 alt="instagram button"/>
   </a>
-  
-  <br>
-  <br>
-  
+  <a href="https://www.instagram.com/mayowall_/">
+  <img src="https://user-images.githubusercontent.com/97934878/209636905-f04af7e6-8e45-4a8b-85cd-d4718fa2a68f.png" width=130 alt="instagram button"/>
+  </a>
 
+  
+  <br/>
+  <br/>
+  <br/>
+  <br/>
     
-  ## I'm studying with...
+  ## Tech Stack 🛠️
   
-  ### Languages & FrameWorks
+  ### interested Innn
+  
   <div>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
+  <a href="https://developer.mozilla.org/ko/docs/Web/JavaScript">
   <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white">
-  <br>
+  </a>
+  <a href="https://reactjs.org/">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white">
+  </a>
+  <a href="https://nextjs.org/">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white">
+  </a>
+  <a href="https://nextjs.org/">
+  <img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=Typescript&logoColor=white">
+  </a>
   </div>
   
-  ### Coworking Tools
-  
+  ### co-workings
+
   <div>
-  <img src="https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=Storybook&logoColor=white">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">
-  <br>
-  <img src="https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=Prettier&logoColor=white">
-  <img src="https://img.shields.io/badge/Eslint-4B32C3?style=for-the-badge&logo=Eslint&logoColor=white">
-  <br>
-  <br>
-  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white">
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
+  <img src="https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=Github&logoColor=white">
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white">
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white">
   </div>
   
   <br>
   <br>
   
+## Using Techs 🛠️
 
-  
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MayOwall&layout=compact&title_color=ffffff&text_color=ffffff&bg_color=DEG,FFA0A0,FFF7B3)](https://github.com/anuraghazra/github-readme-stats)
-
-  ![MayOwall's GitHub stats](https://github-readme-stats.vercel.app/api?username=MayOwall&show_icons=true&title_color=ffffff&text_color=ffffff&icon_color=fff7B3&bg_color=DEG,FFA0A0,FFF7B3)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MayOwall&layout=compact&title_color=000000&text_color=333333&bg_color=DEG,ffffff)](https://github.com/anuraghazra/github-readme-stats)
 
 
