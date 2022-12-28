@@ -26,11 +26,11 @@
   
   ## Contact me 🧶
   
-  <a href="https://velog.io/@mayowall" target="_blank">
-  <img src="https://user-images.githubusercontent.com/97934878/209636762-ae70ca46-e769-4037-a143-4f4503f18e19.png" width=130 alt="instagram button"/>
-  </a>
   <a href="https://mayowall.tistory.com/" target="_blank">
   <img src="https://user-images.githubusercontent.com/97934878/209636901-396f3843-94cd-4c1f-a900-cb453495d42c.png" width=130 alt="instagram button"/>
+  </a>
+  <a href="https://velog.io/@mayowall" target="_blank">
+  <img src="https://user-images.githubusercontent.com/97934878/209636762-ae70ca46-e769-4037-a143-4f4503f18e19.png" width=130 alt="instagram button"/>
   </a>
   <a href="https://www.instagram.com/mayowall_/" target="_blank">
   <img src="https://user-images.githubusercontent.com/97934878/209636905-f04af7e6-8e45-4a8b-85cd-d4718fa2a68f.png" width=130 alt="instagram button"/>
