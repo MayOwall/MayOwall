@@ -3,22 +3,18 @@
   
   <br/>
   
-  안녕하세요 프론트엔드 개발 지망생 오월입니다 : )
-  
-  <b>소중한 이들에게 가치있는 경험</b>을 줄 수 있을 때 행복함을 느껴요. <br/>
-  그런 가치있는 경험을 만들 수 있는 개발자가 되기 위해 <br/>
-  어제를 바탕으로 내일로 나아가고 있습니다.
-  
- 
-  <br/>
-  <br/>
+  안녕하세요, **협업을 통해 성장하는 개발자** 이지은입니다. 
 
-  Hello I'm Owall, an aspiring front-end developer.
-  
-  I feel happy when I can give valuable experiences to my loved ones.<br/>
-  To be a developer who can provide such valuable experiences,<br/>
-  I'm moving forward to tomorrow based on yesterday.
-  
+<br/>
+
+**꾸준히 기록하고 공유**하며 효율적으로 학습합니다.<br/>
+
+꾸준히 학습 경험을 정리하여 기록하고 공유했습니다. 2023년 한 해 기준 **91.30%의 깃허브 커밋률**을 달성했으며, 블로그에 총 **101개의 글**을 정리했습니다. 이 과정에서 **학습 효율성을 70% 향상한 경험**이 있습니다.
+<br/>
+**협업을 통한 빠른 성장**을 추구합니다.<br/>
+
+**협업과 소통 과정**을 즐기며, 다양한 의견을 빠르게 수용하고 반영합니다. 이러한 자세로 1주일만에 새 기술을 학습하여 프로젝트에 적용한 경험이 있습니다.
+
   <br/>
   <br/>
   <br/>
