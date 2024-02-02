@@ -4,8 +4,7 @@
 <br/>
 
 #### 유저에게 더 좋은 경험을 제공하는 것을 목표합니다.
-이를 위해 실제 서비스 유저와 지속적으로 소통하여 **사용자 만족도를 3.8점에서 4.6점으로 개선**한 경험이 있습니다.
-또한 React Suspense 도입 과정에서 데이터 Waterfall 현상을 해결하여 **페이지의 초기 로딩 속도를 3배 향상**시키고,
+이를 위해 React Suspense 도입 과정에서 데이터 Waterfall 현상을 해결하여 **페이지의 초기 로딩 속도를 3배 향상**시키고,
 SEO를 최적화하여 **프로젝트 페이지의 구글 검색 결과 순위를 5위에서 1위로 향상**시킨 경험이 있습니다.
 
 <br/>
@@ -38,7 +37,7 @@ SEO를 최적화하여 **프로젝트 페이지의 구글 검색 결과 순위�
   ### FrontEnd
   
   <div>
-<a href="https://nextjs.org/" target="_blank">
+  <a href="https://nextjs.org/" target="_blank">
   <img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=Typescript&logoColor=white">
   </a>
   <a href="https://developer.mozilla.org/ko/docs/Web/JavaScript" target="_blank">
@@ -59,7 +58,7 @@ SEO를 최적화하여 **프로젝트 페이지의 구글 검색 결과 순위�
   <div>
   <img src="https://img.shields.io/badge/GithubProject-000000?style=for-the-badge&logo=Github&logoColor=white">
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white">
-  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">ㅋ
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
   <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white">
   </div>
   
